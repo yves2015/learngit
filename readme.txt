@@ -12,4 +12,3 @@ add in master
 
 comflict in master
 
-test --no-ff merge
